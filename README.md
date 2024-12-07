@@ -9,3 +9,4 @@ This repository contains the solutions to [quera.ir](https://quera.ir) problemse
 - [254219 - حساب درون شرکتی](https://quera.org/problemset/254219) - ([solution](./254219-simplify-depts/))
 - [254220 - وردل تلگرامی](https://quera.org/problemset/254220) - ([solution](./254220-wordle/))
 - [254221 - مدیریت پروژه](https://quera.org/problemset/254221) - ([solution](./254221-project-management/))
+- [265386 - دستور پخت](https://quera.org/problemset/265386) - ([solution](./265386-cooking-recipe/))
